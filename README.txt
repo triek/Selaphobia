@@ -2,7 +2,7 @@
 SELAPHOBIA
 -----------------
 This is an platformer game made entirely by Triek.
-You can play by open this project in an IDE (preferably IntelliJ) and execute the MainClass class. The only control button is Left-click, click to jump.
+You can play by open this project in an IDE (preferably IntelliJ) with JDK 23 and execute the MainClass class. The only control button is Left-click, click to jump.
 
 All the graphics are homemade using Adobe Photoshop and Illustrator. The code is in Java using IntelliJ IDE. Most of the code I learned from KaarinGaming PlatformerTutorial, but Java is still a pain. Yes, it is Geometry Dash rip off.
 
