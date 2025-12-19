@@ -10,4 +10,4 @@ This game has many potential to be improved. I will add music so it can become a
 
 Thank you for playing, have fun!
 
-Triek.
+_Triek._
