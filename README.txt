@@ -1,6 +1,6 @@
------------------
-SELAPHOBIA
------------------
+# SELAPHOBIA
+## Walkthrough: [youtube.com/watch?v=r9ylkomh8C0](https://www.youtube.com/watch?v=r9ylkomh8C0)
+
 This is an platformer game made entirely by Triek.
 You can play by open this project in an IDE (preferably IntelliJ) with JDK 23 and execute the MainClass class. The only control button is Left-click, click to jump.
 
